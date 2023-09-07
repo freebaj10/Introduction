@@ -1,0 +1,15 @@
+/Users/jackfreebairn/Projects/Introduction/Introduction/bin/Debug/net7.0/Introduction
+/Users/jackfreebairn/Projects/Introduction/Introduction/bin/Debug/net7.0/Introduction.deps.json
+/Users/jackfreebairn/Projects/Introduction/Introduction/bin/Debug/net7.0/Introduction.runtimeconfig.json
+/Users/jackfreebairn/Projects/Introduction/Introduction/bin/Debug/net7.0/Introduction.dll
+/Users/jackfreebairn/Projects/Introduction/Introduction/bin/Debug/net7.0/Introduction.pdb
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.csproj.AssemblyReference.cache
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.AssemblyInfoInputs.cache
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.AssemblyInfo.cs
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.csproj.CoreCompileInputs.cache
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.dll
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/refint/Introduction.dll
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.pdb
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/Introduction.genruntimeconfig.cache
+/Users/jackfreebairn/Projects/Introduction/Introduction/obj/Debug/net7.0/ref/Introduction.dll
